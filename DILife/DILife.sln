@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DILife", "DILife.csproj", "{A714119A-F9CB-4F56-BBB5-06CC7BBB3558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A714119A-F9CB-4F56-BBB5-06CC7BBB3558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A714119A-F9CB-4F56-BBB5-06CC7BBB3558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A714119A-F9CB-4F56-BBB5-06CC7BBB3558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A714119A-F9CB-4F56-BBB5-06CC7BBB3558}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC2FA749-D15F-4A86-9741-22CED6309883}
+	EndGlobalSection
+EndGlobal
